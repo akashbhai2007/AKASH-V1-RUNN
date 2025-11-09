@@ -91,16 +91,12 @@ original credit set to **Rx Abdullah**, and polished for **ready-to-use** releas
 
 ### 🚀 Quick Install
 ```bash
-# clone
-git clone https://github.com/your-username/mirai-bot-messenger.git
-cd mirai-bot-messenger
+# 🔥 Clone Repository
++ git clone https://github.com/mdakashproject/MIRAI-CHAT-BOT-AKASH.git
++ cd MIRAI-CHAT-BOT-AKASH
 
-# install
-npm install
+# ⚙️ Install Dependencies
++ npm install
 
-# configure environment
-cp .env.example .env
-# then edit .env with your PAGE_TOKEN, VERIFY_TOKEN etc.
-
-# start bot
-npm start
+# 🚀 Start Bot
++ node Rxabdullah.js
